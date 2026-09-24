@@ -1,16 +1,14 @@
-## Hi there 👋
+## 嗨，我是鍾詩涵👋
 
-<!--
-**Zhong9788/Zhong9788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是中原大學的學生，目前正在學習計算機概論
 
-Here are some ideas to get you started:
+## 關於我
+- 系級：智運一甲
+- 正在學習：Python、GitHub
+- 我的興趣：攝影、畫圖、跳舞
+- 這學期的目標：想要努力拿到學分
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我的作品
+目前在學習中，之後悔把作品放在GitHub
+[中原智運](https://icbd.cycu.edu.tw/)
+[中原大學](https://www.cycu.edu.tw/)
