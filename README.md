@@ -9,6 +9,6 @@
 - 這學期的目標：想要努力拿到學分
 
 ## 我的作品
-目前在學習中，之後悔把作品放在GitHub
+目前在學習中，之後會把作品放在GitHub
 [中原智運](https://icbd.cycu.edu.tw/)
 [中原大學](https://www.cycu.edu.tw/)
